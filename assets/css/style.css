@@ -1,0 +1,70 @@
+body {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+
+}
+
+header {
+    text-align: center;
+}
+
+nav {
+    text-align: left;
+    display: inline-block;
+    width: 800px;
+    padding: 40px;
+    background-image: url(/assets/img/bg-plantas.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1 {
+    display: inline-block;
+    font-size: 40px;
+    font-weight: 100;
+    line-height: 30px;
+
+}
+
+.h1_bold {
+    font-size: 25px;
+    font-weight: 100;
+}
+
+.container {
+    text-align: left;
+}
+
+.div1 {
+    text-align: center;
+    display: inline-block;
+
+    width: 350px;
+    padding-left: 900px;
+    padding-top: 40px;
+
+}
+
+.div2 {
+    text-align: left;
+    display: inline-block;
+    width: 350px;
+    padding-left: 40px;
+
+}
+
+footer{
+    margin-left: 900px;
+    width: 800px;
+    background-color: orange;
+    height: 50px;
+
+
+}
+
+.footer_t{
+    padding-top: 15px;
+    text-align: center;
+    color: aliceblue;
+    font-weight: bold;
+}
